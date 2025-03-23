@@ -23,8 +23,6 @@ const photos: Photo[] = [
   { src: "/photos/000020750033.jpg", alt: "Film photo from October 13" },
   { src: "/photos/000020760011.jpg", alt: "Film photo from October 13" },
   { src: "/photos/000020760016.jpg", alt: "Film photo from October 13" },
-  { src: "/photos/2268-12.JPG", alt: "Film photo from August 23" },
-  { src: "/photos/2268-29.jpg", alt: "Film photo from August 23" },
   { src: "/photos/0441-10.jpg", alt: "Film photo from July 13" },
   { src: "/photos/0441-14.jpg", alt: "Film photo from July 13" },
   { src: "/photos/0441-17.jpg", alt: "Film photo from July 13" },
