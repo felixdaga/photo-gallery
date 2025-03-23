@@ -50,8 +50,9 @@ export default function Home() {
   return (
     <div className="min-h-screen p-4 sm:p-8 bg-white">
       <header className="max-w-7xl mx-auto mb-12 text-center">
-        <h1 className="text-4xl font-bold mb-4 text-gray-900">MY MEMORIES</h1>
-        <p className="text-gray-700">🍋</p>
+        <h1 className="text-4xl font-bold mb-4 text-gray-900">
+          MY MEMORIES 🍋
+        </h1>
       </header>
 
       <main className="max-w-7xl mx-auto">
